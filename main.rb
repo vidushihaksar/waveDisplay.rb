@@ -29,7 +29,7 @@ for col in (0..n-1)
   
   else
     for r2 in (m-1).downto(0)
-      puts(a[r2][col].to_s()+" ");
+      puts(a[r2][col].to_s()+" ")
     end
   end
 
